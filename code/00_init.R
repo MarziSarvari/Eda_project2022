@@ -1,5 +1,6 @@
 dir.create('./data')
-dir.create('./data/raw')
+dir.create('./data/grdc_raw')
+dir.create('./data/grdc_reference_stations_raw')
 dir.create('./results')
 dir.create('./results/figures')
 dir.create('./docs')
